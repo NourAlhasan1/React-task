@@ -1,0 +1,7 @@
+.main {
+    margin-top: 12.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
